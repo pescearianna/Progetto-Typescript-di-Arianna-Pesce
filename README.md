@@ -43,12 +43,17 @@ Through the definition of interfaces and classes representing the various compon
 2. **Clone the repository**:
   You can clone the project to your computer using Git. Open the terminal and type the following command:
 
-  //```bash
-  //git clone [https://github.com/ariannapesce/repository-name.git](https://github.com/pescearianna/Progetto-Typescript-di-Arianna-Pesce)
+  git clone [https://github.com/ariannapesce/repository-name.git](https://github.com/pescearianna/Progetto-Typescript-di-Arianna-Pesce)
 
 In the foldder 'src' you can find the file.ts, in the foldeer dist you can find the file already transpilled.
 
 This is a project developed with CodePen, the HTML&CSS code is only decorative, you MUST eliminate if you don't have intention to use it, on the other hand you MUST connect the file each others.
+
+3.Configuration Typescript
+ You needs to have installed Node.js in your computer. Then in your terminal, open the folder and write: npm install -g typescript
+ To compile the file in your computer: tsc namefile.ts
+
+ To compile every time that you save your namefile.ts: tsc -w
 
 ---  
 
