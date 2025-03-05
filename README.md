@@ -1,5 +1,4 @@
 <div align='center'>
-    <img src="./assets/img/zombie.png" alt="The Laser Space Game" style='margin: 20px auto; width:200px'>
         <h1>Typescript project ! Arianna Pesce</h1>   
 </div>
 
