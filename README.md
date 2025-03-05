@@ -15,7 +15,7 @@
 
 Typescript Project by Arianna Pesce | Front-End Development | start2impact University
 
-Visit the code in **PenCode**: [https://codepen.io/pescearianna/pen/WbNjJbB]https://codepen.io/pescearianna/pen/WbNjJbB
+Visit the code in **PenCode**: [https://codepen.io/pescearianna/pen/WbNjJbB](https://codepen.io/pescearianna/pen/WbNjJbB)
 
 This project aims to develop a TypeScript-based system that models the operational structure of a beachwear brand using recycled plastic, focusing on the interactions between customers, beachwear products, and sustainable production processes.
 Through the definition of interfaces and classes representing the various components of the system (IProduct, IClient, IProcessProduction), the project demonstrates how technology can support sustainable innovation in the fashion industry.
